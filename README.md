@@ -5,7 +5,7 @@ A fullstack SaaS landing page, authentication screens and dashboard built with N
 https://saas-landing-page-with-zod-prisma-postgre-sql.vercel.app/
 
 # ⛏️ Installation
-To follow along the tutorial. Change to the starter branch  after cloning the repo.
+Change to the starter branch  after cloning the repo.
 Then install the npm packages & run
 ```bash
 npm install && npm run dev
@@ -18,9 +18,6 @@ npm install && npm run dev
 - Shadcn
 - Tailwind
 
-## 🔓 Benefits
-- Mobile Responsiveness
-- Learn all the stack in one video
 
 ## Author
 Built with love ❤️ by Shoaib https://shoaib-mehmood.vercel.app/
